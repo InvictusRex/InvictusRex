@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=InvictusRex&label=Profile%20views&color=0e75b6&style=flat" alt="InvictusRex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=InvictusRex&theme=gruvbox" alt="InvictusRex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=InvictusRex&theme=gruvbox" alt="InvictusRex" /></a> </p>
 
 <p align="left"> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
