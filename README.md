@@ -29,10 +29,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<img align="left" height="180em" src="github-readme-stats-xi-seven-97.vercel.app/api/top-langs/?username=InvictusRex&layout=compact&theme=gruvbox" alt="InvictusRex" />
+<img
+  align="left"
+  height="180em"
+  src="https://github-readme-stats-xi-seven-97.vercel.app/api/top-langs/?username=InvictusRex&layout=compact&theme=gruvbox"
+  alt="Top Languages"
+/>
 
-<p>&nbsp;<img align="center" height="180em" src="github-readme-stats-xi-seven-97.vercel.app/api?username=InvictusRex&show_icons=true&locale=en&theme=gruvbox" alt="InvictusRex" /></p>
+<p>&nbsp;
+  <img
+    align="center"
+    height="180em"
+    src="https://github-readme-stats-xi-seven-97.vercel.app/api?username=InvictusRex&show_icons=true&locale=en&theme=gruvbox"
+    alt="GitHub Stats"
+  />
+</p>
 
 <!--<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=InvictusRex&theme=gruvbox" alt="InvictusRex" /></p>-->
-
-
