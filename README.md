@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=InvictusRex&label=Profile%20views&color=0e75b6&style=flat" alt="InvictusRex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=InvictusRex&theme=gruvbox&title=-Reviews" alt="InvictusRex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=InvictusRex&theme=gruvbox&title=-Reviews" alt="InvictusRex" /></a> </p>
 
 <table align="left" cellpadding="10" cellspacing="0" bgcolor="#282828">
 <tr align="center" valign="middle">
