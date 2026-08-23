@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=InvictusRex&label=Profile%20views&color=0e75b6&style=flat" alt="InvictusRex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=InvictusRex&theme=gruvbox&title=-Reviews" alt="InvictusRex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.devomb.com/?username=InvictusRex&theme=gruvbox&title=-Reviews" alt="InvictusRex" /></a> </p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,c,cpp,java,js,html,css,figma,linux,docker,git,github,debian,bash,vscode,mysql,postgres,mongodb,arduino,raspberrypi&perline=16" height="103" />
