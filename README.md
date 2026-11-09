@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Radxa_RK3588-282828?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nI2ZhYmQyZicgc3Ryb2tlPScjZmFiZDJmJyBzdHJva2Utd2lkdGg9JzEnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxwYXRoIGQ9J00yLjUgNi41TDYuNSAyLjVMMTIgOEw4IDEyWiBNMTcuNSAyLjVMMjEuNSA2LjVMMTYgMTJMMTIgOFogTTIxLjUgMTcuNUwxNy41IDIxLjVMMTIgMTZMMTYgMTJaIE02LjUgMjEuNUwyLjUgMTcuNUw4IDEyTDEyIDE2WicvPjwvc3ZnPg%3D%3D" alt="Radxa RK3588" />
   <img src="https://img.shields.io/badge/Pixhawk-282828?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPScjZmFiZDJmJyBzdHJva2Utd2lkdGg9JzInPjxwYXRoIGQ9J003IDdsMTAgMTBNMTcgN0w3IDE3Jy8%2BPGNpcmNsZSBjeD0nNScgY3k9JzUnIHI9JzMnLz48Y2lyY2xlIGN4PScxOScgY3k9JzUnIHI9JzMnLz48Y2lyY2xlIGN4PSc1JyBjeT0nMTknIHI9JzMnLz48Y2lyY2xlIGN4PScxOScgY3k9JzE5JyByPSczJy8%2BPHJlY3QgeD0nOS41JyB5PSc5LjUnIHdpZHRoPSc1JyBoZWlnaHQ9JzUnIHJ4PScxJyBmaWxsPScjZmFiZDJmJyBzdHJva2U9J25vbmUnLz48L3N2Zz4%3D" alt="Pixhawk" />
   <img src="https://img.shields.io/badge/Roboflow-282828?style=flat-square&logo=roboflow&logoColor=fabd2f" alt="Roboflow" />
-  <img src="https://img.shields.io/badge/Jupyter-282828?style=flat-square&logo=jupyter&logoColor=fabd2f" alt="Jupyter" />
 </p>
 
 <p align="center">
